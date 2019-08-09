@@ -1,0 +1,10 @@
+{
+  "name": "client_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "B. Ruschill <brandon.ruschill@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^13.2.0"
+  }
+}
