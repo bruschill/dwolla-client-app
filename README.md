@@ -12,6 +12,6 @@ Requires [this project](https://github.com/bruschill/dwolla-server-app) to work.
 
 ### Debugging the app
 
-Run `rails server`. 
+Run `ruby app.rb`. 
 
 Server starts at `localhost:4567`.
